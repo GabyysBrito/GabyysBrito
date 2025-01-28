@@ -1,7 +1,10 @@
 <h1>Olá! Meu nome é Gabrielle Oliveira 😁🙋🖐️</h1>
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas</p>
-<p>Estou em foco na área de Desenvolvimento Web</p>
+<h2>Sobre mim</h2>
+
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia, estou em foco na área em desenvolvimento web. Estou no início da minha jornada como desenvolvedora, mas sempre em busca de aprendizado e novos desafios para aprimorar minhas habilidades.</p>
+
+🎯 **Objetivo**: Estou construindo minha carreira para me tornar uma desenvolvedora web e contribuir para projetos que impactem positivamente o mundo por meio da tecnologia.
 
 ![Gabyys GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyysBrito&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyysBrito&layout=compact&theme=radical)
