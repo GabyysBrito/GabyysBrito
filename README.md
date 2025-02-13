@@ -6,8 +6,10 @@
 
 🎯 **Objetivo**: Estou construindo minha carreira para me tornar uma desenvolvedora web e contribuir para projetos que impactem positivamente o mundo por meio da tecnologia.
 
-![Gabyys GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyysBrito&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyysBrito&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabyysBrito&show_icons=true&theme=radical" width="47%"">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyysBrito&layout=compact&theme=radical" width="36%">
+</div>
 
 <h2>Tecnologias que utilizo</h2>
 
