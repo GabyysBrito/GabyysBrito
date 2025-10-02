@@ -6,8 +6,6 @@
 
 🎯 **Objetivo**: Estou construindo minha carreira para me tornar uma desenvolvedora web e contribuir para projetos que impactem positivamente o mundo por meio da tecnologia.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-gabrielle-oliveira.vercel.app/)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabyysBrito&show_icons=true&theme=radical" width="47%"">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyysBrito&layout=compact&theme=radical" width="36%">
