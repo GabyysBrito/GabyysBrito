@@ -30,3 +30,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielle.seuemail@example.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabi-brito)
+[![Portfólio](https://img.shields.io/badge/Portfólio-897BFF?style=for-the-badge)](https://gabrielle-oliveira-portfolio.vercel.app/)
